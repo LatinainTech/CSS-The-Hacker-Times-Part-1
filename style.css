@@ -1,1 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+ul{
+    display: inline-block
+}
+ul {
+    padding: 0px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    padding: 5px; 
+    margin-left: 0px;
+   list-style: none; 
+
+}
+
+li > a {
+    color: #777; 
+    text-decoration: none;
+ } 
+
+
+.block{
+    display: block;
+}
+
+body{
+    font-family: Source Sans Pro;
+    
+}
+
+header{
+    font-family: Abril Fatface;
+}
+
+.background{
+    color:red;
+
+}
+
+/courses/7269/files/1867512/download https://github.com/HackerUSA-CE/CSS-The-Hacker-Times-Part-1.git
